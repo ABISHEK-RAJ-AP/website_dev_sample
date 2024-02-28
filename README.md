@@ -46,4 +46,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 For any additional information, reach out to me 
 
-Thank you for visiting our repository!
+Thank you for visiting my repository!
